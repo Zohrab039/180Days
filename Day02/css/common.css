@@ -1,0 +1,11 @@
+:root{
+    --bg-main: #333333;
+    --text-color: #fff8f1;
+    --a-color: #fd8e45;
+}
+
+body{
+    background: var(--bg-main);
+    margin: 8px !important;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif !important;
+}

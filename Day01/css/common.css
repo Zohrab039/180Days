@@ -1,0 +1,14 @@
+:root {
+    --text-color: #5f5f5f;
+    --primary-color: #ff9933;
+    --color-a: #8B00E0;
+    --color-a-active: #42006A;
+}
+
+.orange {
+    color: var(--primary-color);
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+}

@@ -1,0 +1,51 @@
+.text-container{
+    width: 700px;
+    margin: 20px auto 50px;
+    text-align: center;
+    color: var(--text-color);
+}
+
+.title{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.host{
+    font-family: Consolas, monaco, monospace;
+    font-size: 18px;
+    line-height: 1.4;
+    color: var(--text-color);
+    text-align: center;
+}
+
+.host a{
+    color: var(--a-color);
+}
+
+
+.door-container{
+    text-align: center;
+}
+
+.door{
+    display: inline-block;
+    margin: 0 30px;
+}
+
+.video-container{
+    margin: 30px;
+    text-align: center;
+}
+
+.video-container iframe{
+    width: 420px;
+    height: 315px;
+}
+
+#make-a-deal-final-1{
+    text-align: center;
+}
+
+#make-a-deal-final-1 a{
+    color: var(--a-color);
+}
